@@ -1,5 +1,15 @@
 # Plataformas 2D - Dani Oller Fernandez
 
+## 🎮 Controles
+
+- **A / D**: Moverse a la izquierda / derecha
+- **Espacio**: Saltar
+- **Shift Izquierdo**: Dash
+- **Ctrl Izquierdo**: Agacharse
+- **Click Izquierdo del ratón**: Disparar
+
+---
+
 ## Características principales
 
 ### 🏁 Checkpoints
