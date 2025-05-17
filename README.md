@@ -1,7 +1,5 @@
 # Plataformas 2D
 
-**Plataformas 2D** es un juego de plataformas con mecánicas de guardado automático mediante checkpoints, power ups y varios elementos interactivos en el mapa.
-
 ## Características principales
 
 ### 🏁 Checkpoints
