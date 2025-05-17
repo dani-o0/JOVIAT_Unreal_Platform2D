@@ -1,4 +1,4 @@
-# Plataformas 2D
+# Plataformas 2D - Dani Oller Fernandez
 
 ## Características principales
 
