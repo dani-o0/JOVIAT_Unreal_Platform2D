@@ -41,11 +41,15 @@
 
 ![image](https://github.com/user-attachments/assets/ce2b7432-541f-4d34-9fdf-d49e1998a2ac)
 - **Plataforma movible**: se desplaza siguiendo un patrón predefinido.
+
 ![image](https://github.com/user-attachments/assets/2d8fcf28-4863-4922-838f-c7a7d2dff7fb)
 - **Power ups**: potenciadores que el jugador puede recoger.
+
 ![image](https://github.com/user-attachments/assets/da146890-616e-4847-af0e-6301cfe06b48)
+
 ![image](https://github.com/user-attachments/assets/90a4d3e9-742b-44d4-b29e-cd6fc5fcaac7)
 - **Torretas**: enemigos estáticos que disparan y pueden ser destruidos.
+
 ![image](https://github.com/user-attachments/assets/a5961e6c-b7d6-41f4-923e-4a6055f1fc5c)
 
 ---
