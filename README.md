@@ -38,6 +38,7 @@
 ### 🌍 Elementos del Mapa
 
 - **Jumper**: plataforma que lanza al jugador hacia arriba.
+
 ![image](https://github.com/user-attachments/assets/ce2b7432-541f-4d34-9fdf-d49e1998a2ac)
 - **Plataforma movible**: se desplaza siguiendo un patrón predefinido.
 ![image](https://github.com/user-attachments/assets/2d8fcf28-4863-4922-838f-c7a7d2dff7fb)
