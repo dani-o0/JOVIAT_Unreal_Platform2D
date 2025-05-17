@@ -29,7 +29,11 @@
 #### Tipos de Power Ups
 
 - **Doble salto**: permite al jugador realizar un segundo salto en el aire.
+
+![image](https://github.com/user-attachments/assets/90a4d3e9-742b-44d4-b29e-cd6fc5fcaac7)
 - **Dash**: permite al jugador impulsarse rápidamente hacia una dirección.
+
+![image](https://github.com/user-attachments/assets/da146890-616e-4847-af0e-6301cfe06b48)
 
 ---
 
